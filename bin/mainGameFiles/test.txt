@@ -1,0 +1,187 @@
+Beta versions Below----------------
+
+Interst
+
+Interstellar v2.3.3-------------------
++fixed menu options
++more music added for fun
++huge fixes to the rendering issues with the main game and menu
++clean up
+-no multiplayer
+-still a little buggy
+-for some reason the max games is locked at 2 no matter
+  how many games you request to play
+
+
+Interstellar v2.0.1-------------------
++added a information button to veiw changes in the current version
++fixed errors in the main menu
++cleaned up
+-no multiplayer(in the works)
+
+Interstellar v2.0-------------------
+OUT OF ALPHA VERSION!
+
++added splash screeen
++fixed alot of glitches and bugs present in v1.9.8
++changed music
++got rid of classes that are not needed
++deleated extra shit not needed
++fixed menu errors
+-no multiplayer via internet (in the works)
+
+Alpha versions Below---------------
+
+
+Interstellar v1.9.8------------------
+HUGE UPDATE ADDED SOOOO MUCH SHIT AND FIXED SO MUCH SHIT
+(NEXT UPDATE MAY BE THE FIRST BETA VERSION!)
+
++better sound quality
++better performence
++game doesnt get slower and slower everytime a new game is made
++health fixed
++damage output fixed, doesnt increase damage and kill the other 
+  player in three seconds after a while
++more options availible in the menu
+	+you can now turn the music on and off
+	+you can now completly exit from the game using the exit option 
+	in the game
+	+making a selection is a lot easier now! will only go up and down
+	once every 15th of a second
+	+changed the background image
+	+wanted to know what version you are running? that is now 
+	 visible in the bottom right hand corner
+	+much bug fixes, many bugs, wow
++when you start a new game, the menu closes freeing up space and 
+ computing power
++when starting new game and choosing names for players if you enter 
+ nothing you will be assigned defualt names. Same goes with amount of 
+ games selection (default 2 games)
++player speed increased to 30 pixels per secod (pps) makes it harder 
+to aim and fire
++when game is over, progress (playerxp and kills) is saved and 
+ displays leader board, then now resets the frame and closes it to 
+ free up space and creates a new one
++added the option to return to main menu when you are finnished 
+ playing the set amount of games
++major bug fixes and updates
++animation and buffered images fixed
++more bugs and glitches regarding the reset method have been fixed 
+ and improved
++now takes advantage of multicore processors and renders accordingly
+-still have too many classes to clean up or get rid of
+-usless varibles that are not used that need to be deleated
+-still no multiplayer via internet(development is in the works, 
+ including class system, upgrade system such as weapons and shields, 
+ leveling system and more)
+
+
+
+Interstellar v1.9.5------------------
+
++added better animations and bufferedImage technology
++better sound
++fixed forever empty mag glitch
++fixed game reset button
++keyboard input fixes
++multithreading now enabled to full extent
++amount of games now does something! will play to that amount and the 
+  winner is decided by the most XP/kills
++no ammo glitch fixed
++added health restore box like the ammo restock box
+-music on/off switch still doesnt work
+-internet muliplayer in the works
+-health box has many glitches still
+
+
+Interstellar v1.9.2------------------
+
++added better sound capabilities
++smoothed out graphics
++increased effeciancy
++got rid of files not needed
++more support for the XP side of the game
++fixed leaderboard issues
++fixed username issues
++changed font sizes and style for easier reading
++health is modified
+-amount of games still does nothing
+-still has error when a string is put in for number of games
+-no internet multiplayer
+-when player runs out of ammo and restocks, no bullets will shoot next 
+  roundg
+
+Interstellar v1.9.1------------------
+
++smoother graphics play
++changed speed of the player
++increased health of the player
++leaderboard fixes
++added XP
++FPS increased to 60 from a lousy 30
++more info ask ethan
+-amount of games does nothing
+-no internet multiplayer
+-few critcal errors that will affect game play
+-when player runs out of ammo and restocks, no bullets will shoot next round
+
+Interstellar v1.8.7-----------------
+
++increased health
++improved collision detection
++fixed minor errors that came with reseting game
++added overal score and XP and leaderboard
++added fixes to the main menue
++changed ammo box image
+-play and exut are the only options that work
+-huge critical errors still occur
+
+Interstellar v1.8.6-----------------
+
++minor bug fixes and extras
+
+Interstellar v1.8.2-----------------
+
++added reset button(esc key)
++fixed collision bugs with bullets and player
++added more support for lower end computers
++player upgrade and xp in development(getting sheilds, increased damage, etc)
+-still unstable at many points of the game
+
+Interstellar v1.8-------------------
+
++added the ability to restock ammo when the player magazine goes below 
+  50 rounds
++fixed positioning of player inhformation
++cleaned up un-used program varibles and methods
++graphics cleaned up
+-empty mags glitches not patched
+-many more glitches are still not fixed
+
+Interstellar v1.4-------------------
+
++fixed bugs from the first release of this game
++added two player interaction with keyboard, now you can vs your friends
++added empty mag sounds
++added more sound effects
++removed colision between the two ships
++both ships can shoot at each other now
++both have colision detection
+-many things still very buggy
+
+Interstellar v1.0-------------------
+
+first Alpha release! Cant do anything much but yeah lol
+
+
+
+
+
+
+
+
+
+
+
+
